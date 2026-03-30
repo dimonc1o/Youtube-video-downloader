@@ -1,0 +1,20 @@
+# Исполняемые файлы
+*.exe
+main
+*.pdb
+*.obj
+
+# Личные данные и инструменты
+cookies.txt
+yt-dlp
+ffmpeg
+ffprobe
+
+# Скачанный контент
+*.mp4
+*.mkv
+*.webm
+
+# Папки временных файлов Zig
+zig-cache/
+zig-out/
