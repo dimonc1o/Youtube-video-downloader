@@ -13,10 +13,10 @@ Minimalist YouTube downloader, built with **[Zig](https://ziglang.org/download/)
 
 ---
 
-## Требования
-Для корректной работы проекта в системе должны быть установлены:
+## Ресурсы
+При создании проекта использовалось:
 1.  **[Zig 0.15.2](https://ziglang.org/download/)**
-2.  **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** (должен быть добавлен в PATH)
+2.  **[yt-dlp](https://github.com/yt-dlp/yt-dlp)**
 3.  **[ffmpeg](https://ffmpeg.org/)** (необходим для обработки видео)
 
 ---
