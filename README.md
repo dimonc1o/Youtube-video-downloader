@@ -9,7 +9,7 @@ Minimalist YouTube downloader, built with **[Zig](https://ziglang.org/download/)
 
 ## Авторы
 * **[dimonc1o](https://github.com/dimonc1o)** — Идея и разработка ядра.
-* **[Wrethr](https://github.com/Wrethr)** — Соавтор, дизайн и логика интерфейса.
+* **[Wrethr](https://github.com/Wrethr)** — Главный программист.
 
 ---
 
