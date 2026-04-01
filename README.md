@@ -5,7 +5,7 @@ Minimalist YouTube downloader, built with **[Zig](https://ziglang.org/download/)
 ## Особенности
 * **Minimalist Design**: Чистое черно-белое оформление в стиле минимализма.
 * **High Performance**: Серверная часть на Zig обеспечивает мгновенный отклик.
-* **Clean Code**: HTML вынесен в отдельный файл для удобства редактирования.
+* **Clean Code**: HTML, JS, CSS вынесены в отдельные файлы для удобства редактирования.
 
 ## Авторы
 * **[dimonc1o](https://github.com/dimonc1o)** — Идея и разработка ядра.
