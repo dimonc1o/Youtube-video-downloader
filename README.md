@@ -1,6 +1,6 @@
 # Youtube video downloader
 
-Minimalist YouTube downloader, built with **[Zig](https://ziglang.org/download/)**.
+Minimalist YouTube downloader, built with **[Zig](https://ziglang.org)**.
 
 ## Особенности
 * **Minimalist Design**: Чистое черно-белое оформление в стиле минимализма.
